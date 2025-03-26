@@ -1,0 +1,12 @@
+[submodule "ubior-api"]
+	path = ubior-api
+	url = https://github.com/yousseftawakal/ubior-api
+	branch = main
+[submodule "ubior-app"]
+	path = ubior-app
+	url = https://github.com/yousseftawakal/ubior-app
+	branch = main
+[submodule "ubior-docs"]
+	path = ubior-docs
+	url = https://github.com/yousseftawakal/ubior-docs
+	branch = main
